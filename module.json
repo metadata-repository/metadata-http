@@ -1,0 +1,8 @@
+{
+  "name": "metadata-http",
+  "description": "HTTP wrapper for metadata modules",
+  "version": "0.1.0",
+  "dependencies": {
+    "metadata-error": "0.1.0"
+  }
+}
